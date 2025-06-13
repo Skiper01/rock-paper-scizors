@@ -1,0 +1,26 @@
+html{
+    margin: auto;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    font-size: 16px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #333;
+    font-family: 'Arial', sans-serif;
+}
+
+button{
+    background-color: gray;
+    height: 50px;
+    width: 50px;
+    border-radius: 20px;
+}
+
+#reset{
+    width: auto;
+    border-radius: 0%;
+    background-color: #333;
+    color: white;
+}
